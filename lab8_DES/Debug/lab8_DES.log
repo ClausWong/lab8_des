@@ -1,0 +1,35 @@
+﻿生成启动时间为 2015/9/8 19:29:05。
+     1>项目“G:\visual studio 2013\Projects\lab8_DES\lab8_DES\lab8_DES.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\lab8_DES.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt DES_encode.cpp
+         DES_encode.cpp
+     1>g:\visual studio 2013\projects\lab8_des\lab8_des\des_encode.cpp(226): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>g:\visual studio 2013\projects\lab8_des\lab8_des\des_encode.cpp(279): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 g:\visual studio 2013\projects\lab8_des\lab8_des\des_encode.cpp(276) : 忽略“i”的定义
+                 g:\visual studio 2013\projects\lab8_des\lab8_des\des_encode.cpp(262) : 使用“i”的定义
+     1>g:\visual studio 2013\projects\lab8_des\lab8_des\des_encode.cpp(288): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 g:\visual studio 2013\projects\lab8_des\lab8_des\des_encode.cpp(285) : 忽略“i”的定义
+                 g:\visual studio 2013\projects\lab8_des\lab8_des\des_encode.cpp(262) : 使用“i”的定义
+     1>g:\visual studio 2013\projects\lab8_des\lab8_des\des_encode.cpp(291): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 g:\visual studio 2013\projects\lab8_des\lab8_des\des_encode.cpp(289) : 忽略“i”的定义
+                 g:\visual studio 2013\projects\lab8_des\lab8_des\des_encode.cpp(262) : 使用“i”的定义
+     1>g:\visual studio 2013\projects\lab8_des\lab8_des\des_encode.cpp(390): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>g:\visual studio 2013\projects\lab8_des\lab8_des\des_encode.cpp(403): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>g:\visual studio 2013\projects\lab8_des\lab8_des\des_encode.cpp(409): warning C4800: “unsigned int”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>g:\visual studio 2013\projects\lab8_des\lab8_des\des_encode.cpp(467): warning C4805: “^=”: 在操作中将类型“bool”与类型“int”混合不安全
+     1>g:\visual studio 2013\projects\lab8_des\lab8_des\des_encode.cpp(467): warning C4805: “^”: 在操作中将类型“bool”与类型“int”混合不安全
+     1>g:\visual studio 2013\projects\lab8_des\lab8_des\des_encode.cpp(467): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>g:\visual studio 2013\projects\lab8_des\lab8_des\des_encode.cpp(469): warning C4805: “^=”: 在操作中将类型“bool”与类型“int”混合不安全
+     1>g:\visual studio 2013\projects\lab8_des\lab8_des\des_encode.cpp(469): warning C4805: “^”: 在操作中将类型“bool”与类型“int”混合不安全
+     1>g:\visual studio 2013\projects\lab8_des\lab8_des\des_encode.cpp(469): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>g:\visual studio 2013\projects\lab8_des\lab8_des\des_encode.cpp(686): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+       Link:
+         D:\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\visual studio 2013\Projects\lab8_DES\Debug\lab8_DES.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\visual studio 2013\Projects\lab8_DES\Debug\lab8_DES.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\visual studio 2013\Projects\lab8_DES\Debug\lab8_DES.lib" /MACHINE:X86 Debug\DES_encode.obj
+         Debug\lab8_DES.obj
+         Debug\stdafx.obj
+         lab8_DES.vcxproj -> G:\visual studio 2013\Projects\lab8_DES\Debug\lab8_DES.exe
+     1>已完成生成项目“G:\visual studio 2013\Projects\lab8_DES\lab8_DES\lab8_DES.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.49
